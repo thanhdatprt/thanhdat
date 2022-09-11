@@ -84,6 +84,7 @@ python3 start.py tools
 git clone https://github.com/ImranTheThirdEye/5xDDoS
 cd 5xDDoS
 pip3 install -r requirements.txt
+chmod 777 start.py
 python3 start.py help
     
 python3 start.py <method> <url> <socks_type> <threads> <proxylist> <workers> <time>
