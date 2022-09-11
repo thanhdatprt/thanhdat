@@ -81,7 +81,7 @@ python3 start.py tools
 ## Usages
 
 ```sh
-git clone https://github.com/lucthienphong1120/5xDDoS
+git clone https://github.com/ImranTheThirdEye/5xDDoS
 cd 5xDDoS
 pip3 install -r requirements.txt
 python3 start.py help
